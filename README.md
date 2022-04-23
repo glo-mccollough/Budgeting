@@ -1,2 +1,2 @@
 # Budgeting
- Created and monitored - samples
+Contains samples of various types of budgets I have created and maintained.
